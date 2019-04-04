@@ -1,0 +1,37 @@
+site_name: MWCAC
+site_description: 农民工职业协助中心 · Migrant Worker Career Assistant Center
+site_author: 'Jasper Liu'
+repo_name: github
+copyright: 'Copyright &copy; 2019 Jasper Liu'
+nav:
+    - Home: index.md
+    - About: about.md
+    - Partners & Volunteers: partner.md
+    - Vocational Training: training.md 
+    - Job Placement: jobPlacement.md
+    - Legal Aids & Financial Aids: legalAidsnAids.md
+    - Donate: donation.md
+theme:
+  font: false
+  name: 'material'
+  custom_dir: 'theme/material'
+  include_sidebar: true
+  language: 'en'
+  palette:
+    primary: 'cyan'
+  logo:
+    icon: 'build'
+  favicon: /img/favicon_c.ico
+markdown_extensions:
+  - admonition
+  - footnotes
+  - pymdownx.smartsymbols
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.tasklist:
+      custom_checkbox: true  
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+      baselevel: 2
