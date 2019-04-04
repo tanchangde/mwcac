@@ -1,6 +1,7 @@
 site_name: MWCAC
 site_description: 农民工职业协助中心 · Migrant Worker Career Assistant Center
 site_author: 'Jasper Liu'
+repo_url: https://tanchangde.github.io/mwcac
 repo_name: github
 copyright: 'Copyright &copy; 2019 Jasper Liu'
 nav:
