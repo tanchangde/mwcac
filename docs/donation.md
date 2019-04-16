@@ -9,4 +9,4 @@ By investing charitable money, we’re able to support the future of many more m
 
 By making a [charitable donation], you make it possible for migrant workers and their children to become thriving urban citizens, contributing to the beautiful urban life of China. ​
 
-![Donation button](./img/donation-alipay.png)
+![Donation button](./img/donation-alipay-small.jpeg)
