@@ -1,8 +1,6 @@
 # 合作单位与志愿者
 
-## 合作单位
-
-## Partners
+## 合作单位 Partners
 
 * Universities and community colleges offering adult education programs
 
@@ -18,9 +16,7 @@
 
 * Job agencies specialized in job placement for migrant workers
 
-## 志愿者
-
-## Volunteers
+## 志愿者 Volunteers
 
 ![China Volunteer Service](./img/china-volunteer-service.png)
 
