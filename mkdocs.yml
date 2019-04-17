@@ -19,7 +19,7 @@ theme:
   include_sidebar: true
   language: 'en'
   palette:
-    primary: 'cyan'
+    primary: 'Blue Grey'
   logo:
     icon: 'build'
   favicon: /img/favicon_c.ico
