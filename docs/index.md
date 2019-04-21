@@ -2,7 +2,7 @@
 
 美好的前程从农民工职业中心开始
 
-A bright future starts at the Migrant Workers Career Assistant（MWCAC）
+A bright future starts at the Migrant Workers Career Assistant Center（MWCAC）
 
 ![worker-power](./img/worker-power.png)
 
@@ -22,7 +22,7 @@ MWCAC provides One-Stop Services to Help Migrant Workers with their career devel
 
 MWCAC与我们的合作伙伴一道，为农民工提供以下服务：
 
-* By building connections between migrant workers and our partners, MWCAC offers the following services:
+By building connections between migrant workers and our partners, MWCAC offers the following services:
 
 * 职业技能培训
 
