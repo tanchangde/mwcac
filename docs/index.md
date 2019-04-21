@@ -10,7 +10,7 @@ A bright future starts at the Migrant Workers Career Assistant（MWCAC）
 
 帮助农民短时间内转化成为合格的城市工作者
 
-FACILITATE the Effective Transition of Agriculture Labors to City Workers
+Facilitate the Effective Transition of Agriculture Labors to City Workers
 
 ## 我们的使命 Our Mission
 
@@ -19,6 +19,8 @@ FACILITATE the Effective Transition of Agriculture Labors to City Workers
 MWCAC provides One-Stop Services to Help Migrant Workers with their career development in big Cities in China
 
 ## 我们的服务 Our Services
+
+MWCAC与我们的合作伙伴一道，为农民工提供以下服务：
 
 * By building connections between migrant workers and our partners, MWCAC offers the following services:
 
