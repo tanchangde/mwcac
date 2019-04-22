@@ -6,19 +6,25 @@ A bright future starts at the Migrant Workers Career Assistant Center（MWCAC）
 
 ![worker-power](./img/worker-power.png)
 
-## 我们的愿景 Our Vision
+## 我们的愿景
+
+## Our Vision
 
 帮助农民短时间内转化成为合格的城市工作者
 
 Facilitate the Effective Transition of Agriculture Labors to City Workers
 
-## 我们的使命 Our Mission
+## 我们的使命
+
+## Our Mission
 
 提供一站式服务，解决农民工在城市就业中所遇到的所有问题
 
 MWCAC provides One-Stop Services to Help Migrant Workers with their career development in big Cities in China
 
-## 我们的服务 Our Services
+## 我们的服务
+
+## Our Services
 
 MWCAC与我们的合作伙伴一道，为农民工提供以下服务：
 

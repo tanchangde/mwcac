@@ -1,6 +1,8 @@
 # 农民工法律协助和经济资助
 
-## 经济资助 Financial Aids
+## 经济资助
+
+## Financial Aids
 
 ![cedf](./img/cedf.png)
 
@@ -14,7 +16,9 @@ Do you know that migrant workers could receive financial aids to cover their tui
 
 Our staffs and volunteers can help you select the training programs; register courses; and apply for financial aids. After you complete the training successfully, you will receive the Skill Level (Grade 1 to 5) Certificate issued by the Occupational Skill Testing Authority of the Municipal Human Resources and Social Security Bureau. We will update your personal files with the certificate and training details at MWCAC database for uses in your future career development.
 
-## 法律援助  Legal Aid
+## 法律援助
+
+## Legal Aid
 
 我国政府司法部门提供免费法律援助热线电话。拨打以下免费电话号码，所有农民工可以轻松获取免费法律咨询。
 

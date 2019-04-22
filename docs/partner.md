@@ -1,24 +1,35 @@
 # 合作伙伴与志愿者
 
-## 合作伙伴 Partners
+## 合作伙伴
+
+## Partners
 
 ![partner](./img/partner.png)
 
-* 大专院校的成人教育和培训机构 Universities and community colleges offering adult education programs
+* 大专院校的成人教育和培训机构
+* Universities and community colleges offering adult education programs
 
-* 职业技能培训学校 Vocational training schools
+* 职业技能培训学校
+* Vocational training schools
 
-* 技工学校 Technical schools
+* 技工学校
+* Technical schools
 
-* 街道办事处 Administrations of local communities
+* 街道办事处
+* Administrations of local communities
 
-* 工会 Trade Unions
+* 工会
+* Trade Unions
 
-* 当地人力资源和社会保障局分支机关 Local Administrations of China Human Resources and Social Securities
+* 当地人力资源和社会保障局分支机关
+* Local Administrations of China Human Resources and Social Securities
 
-* 专注给农民工找工作的猎头公司 Job agencies specialized in job placement for migrant workers
+* 专注给农民工找工作的猎头公司
+* Job agencies specialized in job placement for migrant workers
 
-## 志愿者 Volunteers
+## 志愿者
+
+## Volunteers
 
 ![China Volunteer Service](./img/china-volunteer-service.png)
 
